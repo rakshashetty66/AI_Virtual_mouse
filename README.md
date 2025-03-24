@@ -66,6 +66,23 @@ AI_Virtual_Mouse/
 3. **Drag and Drop:** Use a three-finger pinch motion.
 4. **Voice Commands:** Speak actions like "scroll up," "zoom in," or "exit."
 6. **Switch Modes:** Combine voice and hand gestures for enhanced control.
+---
+
+📸 **Screenshots**  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="Screenshots/1.png" style="width: 250px; height: 250px; object-fit: cover;">
+  <img src="Screenshots/2.png" style="width: 250px; height: 250px; object-fit: cover;">
+  <img src="Screenshots/3.png" style="width: 250px; height: 250px; object-fit: cover;">
+  <img src="Screenshots/4.png" style="width: 250px; height: 250px; object-fit: cover;">
+  <img src="Screenshots/5.png" style="width: 250px; height: 250px; object-fit: cover;">
+  <img src="Screenshots/6.png" style="width: 250px; height: 250px; object-fit: cover;">
+  <img src="Screenshots/7.png" style="width: 250px; height: 250px; object-fit: cover;">
+  
+</div>
+
+
+---
+
 
 ## 🔮 Future Improvements
 
